@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Meteoro</string>
+    <string name="action_settings">Settings</string>
+    <string name="localization_title">Localization</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="location_hint">Decimal value</string>
+    <string name="gps_label">GPS</string>
+    <string name="relocate_button">Update location</string>
+    <string name="providers_label">Localization providers</string>
+    <string name="network_label">Network</string>
+    <string name="last_location_label">Last location</string>
+    <string name="default_location_button">Use default</string>
+    <string name="last_location_button">Use last</string>
+    <string name="not_available">Not available</string>
+    <string name="active_provider">Active provider</string>
+    <string name="no_provider">No location provider enabled</string>
+    <string name="owm_no_response">Unable to get a response from Open Weather Map server</string>
+    <string name="owm_status_code">Open Weather Map server responded with status code</string>
+    <string name="weather_label">Weather at</string>
+    <string name="station_label">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="clouds">Clouds</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="last_update_label">Last update</string>
+    <string name="weather_image_desc">"Icon representing the weather "</string>
+    <string name="update_button">Update weather</string>
+    <string name="please_relocate">No location available, please relocate</string>
+    <string name="please_wait">Please wait 10 minuts before updating</string>
+    <string name="provider_enabled">Enabled provider </string>
+    <string name="provider_disabled">Disabled povider </string>
+</resources>
